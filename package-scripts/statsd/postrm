@@ -1,0 +1,9 @@
+#!/bin/bash
+#
+# Perform necessary statsd removal steps
+# after package is uninstalled.
+#
+
+echo "statsd has been uninstalled!"
+
+exit 0
